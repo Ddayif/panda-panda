@@ -1,0 +1,54 @@
+*{
+	background-color: #734F4F;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+section .texto{
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	background-color: #732C2C;
+	
+}
+
+#menu .inicio{
+	padding: 40px 30px; 
+	background-color: #732C2C;
+	display: inline-block;
+}
+
+#menu .pandas{
+	padding: 40px 30px; 
+	background-color: #732C2C;
+	display: inline-block;
+}
+
+#menu .historias{
+	padding: 40px 30px; 
+	background-color: #732C2C;
+	display: inline-block;
+}
+
+#menu .extincion{
+	padding: 40px 30px; 
+	background-color: #732C2C;
+	display: inline-block;
+}
+.pandas img{
+	
+	display: inline-block;
+	float: left;
+	border: 5px solid whitesmoke;
+	margin: 10px;	
+}
+
+.contenedor-imagen{	
+	margin-right: 50px;
+	align-content: center;
+	margin: 30px;
+	filter: grayscale(100%);
+}
+
+
