@@ -3,6 +3,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: 'Crimson Text', serif;
 }
 
 section .texto{
@@ -45,10 +46,10 @@ section .texto{
 }
 
 .contenedor-imagen{	
+	padding: 200px
 	margin-right: 50px;
 	align-content: center;
 	margin: 30px;
 	filter: grayscale(100%);
 }
-
 
